@@ -1,0 +1,18 @@
+{
+  "generated": "2026-07-04T19:49:52",
+  "reference": "/home/db/.hermes/cache/images/img_f6c2969689b5.jpg",
+  "avatars": {
+    "professional": [
+      "/home/db/build-with-db/public/images/avatars/avatar_professional.png"
+    ],
+    "builder": [
+      "/home/db/build-with-db/public/images/avatars/avatar_builder.png"
+    ],
+    "editorial": [
+      "/home/db/build-with-db/public/images/avatars/avatar_editorial.png"
+    ],
+    "trades": [
+      "/home/db/build-with-db/public/images/avatars/avatar_trades.png"
+    ]
+  }
+}
